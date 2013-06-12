@@ -1,0 +1,11 @@
+<html>
+  <body>
+    <p>
+      I'm a velocity template.
+      Hello $foo!
+    </p>
+    <p>
+      Your user agent is: <strong>$user-agent</strong>.
+    </p>
+  </body>
+</html>
